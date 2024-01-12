@@ -1,0 +1,51 @@
+.MainSection{
+    margin-top: 5rem;
+    position: relative;
+    z-index: -1;
+
+
+}
+
+.MainSection img {
+    width: 85rem;
+}
+
+.content{
+    width: 40rem;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    color: white;
+    z-index: 1;
+}
+
+.content h2{
+    font-size: 50px;
+
+}
+
+.content p{
+    line-height: 2;
+    font-size: 15px;
+    color: #07073e;
+    font-family: Roboto, sans-serif;
+
+}
+
+.content div{
+    display: flex;
+    gap: 10%;
+
+}
+
+.content div p{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    background-color: #61dafb;
+
+
+}
+.content div p span{
+
+}

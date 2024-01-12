@@ -1,0 +1,18 @@
+.TopNav{
+    display: flex;
+    cursor: pointer;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+
+}
+
+.TopNav h1{
+    margin-left: 5rem;
+}
+
+.TopNav ol{
+    margin-top: 2.5rem;
+    color: #61dafb;
+}

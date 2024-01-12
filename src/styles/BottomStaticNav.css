@@ -1,0 +1,22 @@
+.BottomStaticNav{
+    display: flex;
+    background-color:  #5ee59a;
+    top: 33.4rem;
+    position: fixed;
+}
+
+.BottomStaticNav p{
+    color: white;
+    font-family: Roboto, sans-serif;
+    left: 25%;
+    font-size: 15px;
+}
+.BottomStaticNav button{
+    background-color: white;
+    color: #5ee59a;
+    border: None;
+    border-radius: 25px;
+    width: 20rem;
+    height: 2rem;
+    margin-top: 30px;
+}
