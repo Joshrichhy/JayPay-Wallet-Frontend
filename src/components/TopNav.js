@@ -28,7 +28,7 @@ const TopNav = () =>{
     return (
         <div>
             <div className= "TopNav">
-                <h1>JPay</h1>
+                <h1>JayPay</h1>
                 <ol className="Personal"  onClick={personalModal}>Personal</ol>
                 <ol>Business</ol>
                 <ol className="Company" onClick={companyModal} >Company</ol>
