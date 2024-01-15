@@ -1,13 +1,27 @@
 .OurService{
     display: flex;
-    height: 5rem;
-    width: 5rem;
-    color: red;
+    height: 35rem;
+    width: 80rem;
+    background-color: #5ee59a;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    color: white;
 
 }
 
-.OurService div{
-
+.text,
+.image{
+    width: 45%;
+    height: 90%;
+    padding: 20px 34px;
 
 
 }
+
+.image img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+

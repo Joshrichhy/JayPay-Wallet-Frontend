@@ -5,7 +5,7 @@ import OurService from "./OurService";
 
 const LandingPage = () => {
     return(
-        <div>
+        <div className="LandingPage">
             <TopNav/>
             <MainSection/>
             <BottomStaticNav/>

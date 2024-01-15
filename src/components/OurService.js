@@ -4,7 +4,7 @@ import "../styles/OurService.css"
 const OurService = ()=>{
     return(
         <div className="OurService">
-            <div>
+            <div className="text">
                 <h1>
                     Fund your Account, Make Transfers, Pay Bills
                 </h1>
@@ -14,7 +14,7 @@ const OurService = ()=>{
                     fast bill payments at no extra charge.
                 </p>
             </div>
-            <div>
+            <div className="image">
                 <img src={MainSectionBackground} alt="pic"/>
             </div>
 
